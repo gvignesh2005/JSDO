@@ -1,5 +1,5 @@
 {
-  "name": "@progress/jsdo",
+  "name": "@gvignesh2005/jsdo",
   "version": "6.0.1",
   "description": "The JSDO is a JavaScript implementation of the CDO Specification published by Progress Software Corporation.\r The JSDO is a free and open-source full-featured implementation that can be used in web, mobile web and hybrid mobile apps.",
   "main": "lib/progress.all.min.js",
@@ -19,8 +19,7 @@
     "test:tc": "npm run build:jsdo && mocha --timeout 15000 --recursive --reporter mocha-teamcity-reporter"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/progress/JSDO.git"
+    "url": "git://github.com/gvignesh2005/JSDO.git"
   },
   "keywords": [
     "JSDO",
